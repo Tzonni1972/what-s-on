@@ -1,0 +1,171 @@
+{
+  "week": "24–30 Aug 2026",
+  "region": "Athens, Greece",
+  "timezone": "Europe/Athens",
+  "asOf": "2026-08-22",
+  "lane": [
+    "thriller",
+    "crime",
+    "cop",
+    "mafia",
+    "Nordic noir",
+    "military",
+    "sci-fi"
+  ],
+  "sections": {
+    "thisWeek": [
+      {
+        "id": "lioness-s3",
+        "title": "Lioness S3",
+        "kind": "series",
+        "why": "New episode. Undercover, high risk.",
+        "service": "COSMOTE",
+        "when": "Mon 24 Aug · 22:00",
+        "imdb": "7.8",
+        "link": "https://www.cosmotetv.gr/",
+        "alreadyWatching": false
+      },
+      {
+        "id": "reacher-s4",
+        "title": "Reacher S4",
+        "kind": "series",
+        "why": "Already on it.",
+        "service": "PRIME",
+        "when": "Wed 26 Aug · 10:01",
+        "imdb": "8.0",
+        "link": "https://www.primevideo.com/search?phrase=Reacher",
+        "alreadyWatching": true
+      },
+      {
+        "id": "ludwig-s2",
+        "title": "Ludwig S2",
+        "kind": "series",
+        "why": "New episode. Puzzle-box detective.",
+        "service": "COSMOTE",
+        "when": "Fri 28 Aug · 22:00",
+        "imdb": "8.1",
+        "link": "https://www.cosmotetv.gr/",
+        "alreadyWatching": false
+      },
+      {
+        "id": "lanterns",
+        "title": "Lanterns",
+        "kind": "series",
+        "why": "Greece drop Monday 04:00 EEST after US Sunday 9pm ET.",
+        "service": "MAX",
+        "when": "Sun 30 Aug",
+        "imdb": "—",
+        "link": "https://play.max.com/search?q=Lanterns",
+        "alreadyWatching": false
+      }
+    ],
+    "movies": [
+      {
+        "id": "the-whisper-man",
+        "title": "The Whisper Man",
+        "kind": "movie",
+        "why": "Arrives Friday. Crime thriller.",
+        "service": "NETFLIX",
+        "when": "Fri 28 Aug",
+        "imdb": "—",
+        "link": "https://www.netflix.com/search?q=The%20Whisper%20Man",
+        "alreadyWatching": false
+      },
+      {
+        "id": "the-secret-woman",
+        "title": "The Secret Woman",
+        "kind": "movie",
+        "why": "Arrives Friday.",
+        "service": "NETFLIX",
+        "when": "Fri 28 Aug",
+        "imdb": "—",
+        "link": "https://www.netflix.com/search?q=The%20Secret%20Woman",
+        "alreadyWatching": false
+      },
+      {
+        "id": "facing-el-chapo",
+        "title": "Facing El Chapo",
+        "kind": "movie",
+        "why": "Recap. Available now.",
+        "service": "NETFLIX",
+        "when": "NOW",
+        "imdb": "—",
+        "link": "https://www.netflix.com/search?q=Facing%20El%20Chapo",
+        "alreadyWatching": false,
+        "recap": true
+      },
+      {
+        "id": "no-other-choice",
+        "title": "No Other Choice",
+        "kind": "movie",
+        "why": "Park Chan-wook. On demand.",
+        "service": "COSMOTE",
+        "when": "ON DEMAND",
+        "imdb": "7.6",
+        "link": "https://www.cosmotetv.gr/",
+        "alreadyWatching": false
+      }
+    ],
+    "justIn": [
+      {
+        "id": "blood-sacrifice",
+        "title": "Blood Sacrifice",
+        "kind": "series",
+        "why": "Just landed on Netflix.",
+        "service": "NETFLIX",
+        "when": "NOW",
+        "imdb": "—",
+        "link": "https://www.netflix.com/search?q=Blood%20Sacrifice",
+        "alreadyWatching": false
+      },
+      {
+        "id": "echo-3",
+        "title": "Echo 3",
+        "kind": "series",
+        "why": "Military-adjacent. Now on Apple TV+.",
+        "service": "APPLE TV",
+        "when": "NOW",
+        "imdb": "6.5",
+        "link": "https://tv.apple.com/search?term=Echo%203",
+        "alreadyWatching": false
+      },
+      {
+        "id": "seal-team",
+        "title": "SEAL Team",
+        "kind": "series",
+        "why": "Military. Now on Netflix.",
+        "service": "NETFLIX",
+        "when": "NOW",
+        "imdb": "—",
+        "link": "https://www.netflix.com/search?q=SEAL%20Team",
+        "alreadyWatching": false
+      },
+      {
+        "id": "umthetho",
+        "title": "Umthetho",
+        "kind": "series",
+        "why": "Just in on Netflix.",
+        "service": "NETFLIX",
+        "when": "NOW",
+        "imdb": "—",
+        "link": "https://www.netflix.com/search?q=Umthetho",
+        "alreadyWatching": false
+      }
+    ],
+    "pao": [
+      {
+        "id": "pao-vs-paris-2026-09-24",
+        "title": "PAO vs Paris",
+        "kind": "sport",
+        "why": "Home. Telekom Center Athens (OAKA).",
+        "service": "EUROLEAGUE",
+        "when": "Thu 24 Sep · 21:15",
+        "imdb": "—",
+        "link": "https://www.euroleaguebasketball.net/en/euroleague/",
+        "alreadyWatching": false,
+        "weekAhead": "Thu 24 Sep 2026 21:15 Athens HOME vs Paris Basketball, Telekom Center Athens (OAKA)"
+      }
+    ],
+    "live": []
+  }
+}
