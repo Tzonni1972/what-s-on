@@ -2,19 +2,23 @@
   "week": "31 Aug–6 Sep 2026",
   "region": "Athens, Greece",
   "timezone": "Europe/Athens",
-  "asOf": "2026-08-31",
+  "asOf": "2026-09-01",
   "lane": ["thriller", "crime", "cop", "mafia", "Nordic noir", "military", "sci-fi"],
   "sections": {
     "thisWeek": [
-      {"id": "lanterns-s1", "title": "Lanterns", "kind": "series", "why": "New episode. Cops, heartland murder. S1E3 OutKast live Max GR this morning (US Sun 30 9pm ET).", "service": "MAX", "when": "NOW", "imdb": "—", "link": "https://www.imdb.com/title/tt26545992/", "alreadyWatching": false, "weekAhead": true, "recap": false},
-      {"id": "lioness-s3", "title": "Lioness S3", "kind": "series", "why": "Sheridan military-spy. S3E5 The Idiot Army. Cosmote Mondays 22:00, 24h after Paramount+.", "service": "COSMOTE", "when": "Mon 31 Aug · 22:00", "imdb": "7.8", "link": "https://www.imdb.com/title/tt13111078/", "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "vigil-s3", "title": "Vigil S3", "kind": "series", "why": "Arctic special-forces murder. Silva and Longacre back. Premiere tonight.", "service": "COSMOTE", "when": "Tue 1 Sep · 23:00", "imdb": "—", "link": "https://programmatv.gr/ekpompi/vigil-k3-e1-cosmote-series-01-09-2026/", "alreadyWatching": false, "weekAhead": true, "recap": false},
       {"id": "reacher-s4", "title": "Reacher S4", "kind": "series", "why": "Already watching — not a rec. S4E6 Plum Out of Luck.", "service": "PRIME", "when": "Wed 2 Sep · 10:01", "imdb": "8.0", "link": "https://www.primevideo.com/detail/0K16R3PLUFGC2JUE457C26O4OD", "alreadyWatching": true, "weekAhead": true, "recap": false},
+      {"id": "mandalorian-grogu", "title": "Mandalorian and Grogu", "kind": "movie", "why": "Star Wars. Din Djarin and Grogu, the live-action film.", "service": "DISNEY+", "when": "Wed 2 Sep", "imdb": "—", "link": "https://www.imdb.com/title/tt30320493/", "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "the-runner", "title": "The Runner", "kind": "series", "why": "Crime thriller landing Prime Greece Wednesday.", "service": "PRIME", "when": "Wed 2 Sep", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false},
       {"id": "gentlemen-s2", "title": "The Gentlemen S2", "kind": "series", "why": "Guy Ritchie crime empire. Eddie and Susie take the business to Italy.", "service": "NETFLIX", "when": "Thu 3 Sep", "imdb": "—", "link": "https://www.imdb.com/title/tt13210838/", "alreadyWatching": false, "weekAhead": true, "recap": false},
       {"id": "dark-matter-s2", "title": "Dark Matter S2", "kind": "series", "why": "Sci-fi thriller. S2E2 A Perfect World. Weekly Fridays through 30 Oct.", "service": "APPLE TV", "when": "Fri 4 Sep", "imdb": "7.6", "link": "https://tv.apple.com/gr/show/dark-matter/umc.cmc.4luj45vtqpmjsvb6sc2675oeg", "alreadyWatching": false, "weekAhead": true, "recap": false},
-      {"id": "ludwig-s2", "title": "Ludwig S2", "kind": "series", "why": "Cambridge puzzle-maker still impersonating his missing-cop twin. S2E3 after BBC Thu 3 21:00.", "service": "COSMOTE", "when": "Fri 4 Sep · 22:00", "imdb": "8.1", "link": "https://www.imdb.com/title/tt27846061/", "alreadyWatching": false, "weekAhead": true, "recap": true}
+      {"id": "ludwig-s2", "title": "Ludwig S2", "kind": "series", "why": "Cambridge puzzle-maker still impersonating his missing-cop twin. S2E3.", "service": "COSMOTE", "when": "Fri 4 Sep · 22:00", "imdb": "8.1", "link": "https://www.imdb.com/title/tt27846061/", "alreadyWatching": false, "weekAhead": true, "recap": true},
+      {"id": "snw-s4", "title": "Strange New Worlds S4", "kind": "series", "why": "Sci-fi. S4E7 premiere on Cosmote SERIES.", "service": "COSMOTE", "when": "Fri 4 Sep · 23:00", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "lanterns-s1", "title": "Lanterns", "kind": "series", "why": "New episode. Cops, heartland murder. S1E3 already up.", "service": "MAX", "when": "NOW", "imdb": "—", "link": "https://www.imdb.com/title/tt26545992/", "alreadyWatching": false, "weekAhead": true, "recap": true},
+      {"id": "lioness-s3", "title": "Lioness S3", "kind": "series", "why": "Sheridan military-spy. S3E5 already on. Next S3E6 Mon 7 22:00.", "service": "COSMOTE", "when": "NOW", "imdb": "7.8", "link": "https://www.imdb.com/title/tt13111078/", "alreadyWatching": false, "weekAhead": true, "recap": true}
     ],
     "movies": [
-      {"id": "anatomy-of-a-fall", "title": "Anatomy of a Fall", "kind": "movie", "why": "Palme d'Or courtroom thriller: did he fall, or was he pushed?", "service": "NETFLIX", "when": "Tue 1 Sep", "imdb": "7.6", "link": "https://www.imdb.com/title/tt17009710/", "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "get-out", "title": "Get Out", "kind": "movie", "why": "Peele psychological thriller. Just landed Disney+ Greece as Τρέξε!.", "service": "DISNEY+", "when": "NOW", "imdb": "—", "link": "https://www.justwatch.com/gr/ταινία/trexe", "alreadyWatching": false, "weekAhead": true, "recap": false},
       {"id": "whisper-man", "title": "The Whisper Man", "kind": "movie", "why": "De Niro retired-detective + Adam Scott; abducted son tied to an old serial-killer case.", "service": "NETFLIX", "when": "NOW", "imdb": "—", "link": "https://www.netflix.com/gr/title/81278442", "alreadyWatching": false, "weekAhead": false, "recap": true},
       {"id": "secret-woman", "title": "The Secret Woman", "kind": "movie", "why": "Danish mystery-thriller: amnesia, shipping empire, vanished identity.", "service": "NETFLIX", "when": "NOW", "imdb": "—", "link": "https://www.netflix.com/gr/title/81735102", "alreadyWatching": false, "weekAhead": false, "recap": true}
     ],
@@ -28,7 +32,6 @@
     ]
   },
   "live": [
-    {"id": "us-open-2026", "title": "US Open", "kind": "live", "why": "Grand Slam main draw through 13 Sep. Tsitsipas and Sakkari. Eurosport on Nova.", "service": "EUROSPORT / NOVA", "when": "Through 13 Sep", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false},
-    {"id": "pao-levadiakos-2026-08-31", "title": "Levadiakos vs PAO", "kind": "live", "why": "Super League. Away in Livadeia. Ordinary fixture, noted because it is PAO football tonight.", "service": "SUPER LEAGUE", "when": "Mon 31 Aug · 19:30", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false}
+    {"id": "us-open-2026", "title": "US Open", "kind": "live", "why": "Grand Slam main draw through 13 Sep. Tsitsipas and Sakkari. Eurosport on Nova.", "service": "EUROSPORT / NOVA", "when": "Through 13 Sep", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false}
   ]
 }
