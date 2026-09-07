@@ -1,0 +1,35 @@
+{
+  "week": "7–13 Sep 2026",
+  "region": "Athens, Greece",
+  "timezone": "Europe/Athens",
+  "asOf": "2026-09-07",
+  "lane": ["thriller", "crime", "cop", "mafia", "Nordic noir", "military", "sci-fi"],
+  "sections": {
+    "thisWeek": [
+      {"id": "lioness-s3e6", "title": "Lioness S3E6", "kind": "series", "why": "Sheridan military-spy; Joe in the wringer.", "service": "COSMOTE", "when": "Mon 7 · 22:00", "imdb": "7.8", "link": "https://www.imdb.com/title/tt13111078/", "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "fauda-s5", "title": "Fauda S5", "kind": "series", "why": "Doron, Marseille, deep cover. Full binge.", "service": "NETFLIX", "when": "Tue 8", "imdb": "8.3", "link": "https://www.netflix.com/tudum/articles/fauda-season-five-release-date-cast-photos-news", "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "tulsa-king", "title": "Tulsa King", "kind": "series", "why": "Stallone mafia empire, new enemies.", "service": "COSMOTE", "when": "Tue 8 · 21:00", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "vigil-s3e2", "title": "Vigil S3E2", "kind": "series", "why": "Arctic special-forces murder continues.", "service": "COSMOTE", "when": "Tue 8 · 23:10", "imdb": "7.4", "link": "https://www.imdb.com/title/tt11846996/", "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "last-seen", "title": "Last Seen", "kind": "series", "why": "Cop dispatcher; a call that might be his missing daughter. E1–2.", "service": "APPLE TV", "when": "Wed 9", "imdb": "—", "link": "https://www.apple.com/tv-pr/originals/last-seen/", "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "made-in-korea-s2", "title": "Made in Korea S2", "kind": "series", "why": "KCIA double life, 1970s crime power.", "service": "DISNEY+", "when": "Wed 9", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "reacher-s4e7", "title": "Reacher S4E7", "kind": "series", "why": "Already watching — not a rec. Finale 16 Sep.", "service": "PRIME", "when": "Wed 9 · ~10:00", "imdb": "8.0", "link": "https://www.primevideo.com/detail/0K16R3PLUFGC2JUE457C26O4OD", "alreadyWatching": true, "weekAhead": true, "recap": false},
+      {"id": "perfect-lie", "title": "The Perfect Lie", "kind": "series", "why": "Perfect couples, a fire, ugly secrets.", "service": "NETFLIX", "when": "Thu 10", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "dark-matter-s2e3", "title": "Dark Matter S2E3", "kind": "series", "why": "Multiverse thriller; Jason vs the Box.", "service": "APPLE TV", "when": "Fri 11", "imdb": "7.6", "link": "https://tv.apple.com/gr/show/dark-matter/umc.cmc.4luj45vtqpmjsvb6sc2675oeg", "alreadyWatching": false, "weekAhead": true, "recap": false}
+    ],
+    "movies": [
+      {"id": "war-dogs", "title": "War Dogs", "kind": "movie", "why": "Hill/Teller arms-dealing true crime.", "service": "NETFLIX", "when": "Thu 10", "imdb": "7.1", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "psycho-killer", "title": "Psycho Killer", "kind": "movie", "why": "Highway patrol widow hunts a serial killer.", "service": "DISNEY+", "when": "Wed 9", "imdb": "—", "link": "https://www.disneyplus.com/browse/entity-0c32cedb-9657-48e2-9111-3ffda10df276", "alreadyWatching": false, "weekAhead": true, "recap": false}
+    ],
+    "justIn": [
+      {"id": "gentlemen-s2", "title": "The Gentlemen S2", "kind": "series", "why": "Ritchie crime empire to Italy; all 8 live.", "service": "NETFLIX", "when": "NOW", "imdb": "8.0", "link": "https://www.imdb.com/title/tt13210838/", "alreadyWatching": false, "weekAhead": false, "recap": true},
+      {"id": "body-of-lies", "title": "Body of Lies", "kind": "movie", "why": "Scott CIA thriller, DiCaprio/Crowe.", "service": "NETFLIX", "when": "NOW", "imdb": "7.0", "link": null, "alreadyWatching": false, "weekAhead": false, "recap": true},
+      {"id": "sixth-sense", "title": "The Sixth Sense", "kind": "movie", "why": "Shyamalan classic, now flatrate.", "service": "NETFLIX", "when": "NOW", "imdb": "8.2", "link": "https://www.netflix.com/title/26797528", "alreadyWatching": false, "weekAhead": false, "recap": true}
+    ],
+    "pao": [
+      {"id": "pao-paris-2026-09-24", "title": "PAO vs Paris", "kind": "sport", "why": "EuroLeague 2026-27 RS Gameweek 1. Home at Telekom Center Athens (OAKA).", "service": "EUROLEAGUE", "when": "Thu 24 Sep · 21:15", "imdb": "—", "link": "https://www.paobc.gr/en/schedule/", "alreadyWatching": false, "weekAhead": false, "recap": false}
+    ]
+  },
+  "live": [
+    {"id": "us-open-2026", "title": "US Open", "kind": "live", "why": "Grand Slam through 13 Sep. Eurosport on Nova.", "service": "EUROSPORT / NOVA", "when": "Through 13 Sep", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false}
+  ]
+}
