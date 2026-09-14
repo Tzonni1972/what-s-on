@@ -1,0 +1,33 @@
+{
+  "week": "14–20 Sep 2026",
+  "region": "Athens, Greece",
+  "timezone": "Europe/Athens",
+  "asOf": "2026-09-14",
+  "lane": ["thriller", "crime", "cop", "mafia", "Nordic noir", "military", "sci-fi"],
+  "sections": {
+    "thisWeek": [
+      {"id": "lioness-s3e7", "title": "Lioness S3E7", "kind": "series", "why": "Sheridan military-spy; open conflict.", "service": "COSMOTE", "when": "Mon 14 · 22:00", "imdb": "7.8", "link": "https://www.imdb.com/title/tt13111078/", "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "vigil-s3e3", "title": "Vigil S3E3", "kind": "series", "why": "Arctic station; Kirsten in Russian crosshairs.", "service": "COSMOTE", "when": "Tue 15 · 23:00", "imdb": "7.4", "link": "https://www.imdb.com/title/tt11846996/", "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "last-seen", "title": "Last Seen", "kind": "series", "why": "Cop dispatcher hook continues (weekly).", "service": "APPLE TV", "when": "Wed 16", "imdb": "—", "link": "https://www.apple.com/tv-pr/originals/last-seen/", "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "slow-horses-s6", "title": "Slow Horses S6", "kind": "series", "why": "Lamb’s misfits back in the crosshairs.", "service": "APPLE TV", "when": "Wed 16", "imdb": "8.3", "link": "https://www.imdb.com/title/tt5875444/", "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "neagley", "title": "Neagley", "kind": "series", "why": "Reacher-verse PI; friend’s accident, all 8.", "service": "PRIME", "when": "Wed 16", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "reacher-s4-finale", "title": "Reacher S4 finale", "kind": "series", "why": "Already watching — not a rec.", "service": "PRIME", "when": "Wed 16 · ~10:00", "imdb": "8.0", "link": "https://www.primevideo.com/detail/0K16R3PLUFGC2JUE457C26O4OD", "alreadyWatching": true, "weekAhead": true, "recap": false},
+      {"id": "monster-lizzie-borden", "title": "Monster: The Lizzie Borden Story", "kind": "series", "why": "Murphy axe true-crime anthology.", "service": "NETFLIX", "when": "Thu 17", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "tulsa-king-s3-finale", "title": "Tulsa King S3 finale", "kind": "series", "why": "Stallone war to the end.", "service": "COSMOTE", "when": "Thu 17 · 21:05", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "dark-matter-s2e4", "title": "Dark Matter S2E4", "kind": "series", "why": "Multiverse thriller; Jason vs the Box.", "service": "APPLE TV", "when": "Fri 18", "imdb": "7.6", "link": "https://tv.apple.com/gr/show/dark-matter/umc.cmc.4luj45vtqpmjsvb6sc2675oeg", "alreadyWatching": false, "weekAhead": true, "recap": false},
+      {"id": "mobland-s2e1", "title": "MobLand S2E1", "kind": "series", "why": "Hardy/Brosnan crime families, S2 open.", "service": "COSMOTE", "when": "Sat 19 · 23:00", "imdb": "8.3", "link": "https://www.imdb.com/title/tt31510819/", "alreadyWatching": false, "weekAhead": true, "recap": false}
+    ],
+    "movies": [
+      {"id": "whisper-man", "title": "The Whisper Man", "kind": "movie", "why": "De Niro / missing kid / serial-killer past. Still hot.", "service": "NETFLIX", "when": "NOW", "imdb": "6.2", "link": null, "alreadyWatching": false, "weekAhead": true, "recap": false}
+    ],
+    "justIn": [
+      {"id": "gentlemen-s2", "title": "The Gentlemen S2", "kind": "series", "why": "Ritchie crime empire; all 8 live.", "service": "NETFLIX", "when": "NOW", "imdb": "8.0", "link": "https://www.imdb.com/title/tt13210838/", "alreadyWatching": false, "weekAhead": false, "recap": true},
+      {"id": "fauda-s5", "title": "Fauda S5", "kind": "series", "why": "Doron, Marseille, deep cover. Full binge.", "service": "NETFLIX", "when": "NOW", "imdb": "8.3", "link": "https://www.netflix.com/gr/title/80113612", "alreadyWatching": false, "weekAhead": false, "recap": true},
+      {"id": "perfect-lie", "title": "The Perfect Lie", "kind": "series", "why": "Perfect couples, a fire, ugly secrets.", "service": "NETFLIX", "when": "NOW", "imdb": "—", "link": null, "alreadyWatching": false, "weekAhead": false, "recap": true}
+    ],
+    "pao": [
+      {"id": "pao-paris-2026-09-24", "title": "PAO vs Paris", "kind": "sport", "why": "EuroLeague 2026-27 RS Gameweek 1. Home at Telekom Center Athens (OAKA).", "service": "EUROLEAGUE", "when": "Thu 24 Sep · 21:15", "imdb": "—", "link": "https://www.paobc.gr/en/schedule/", "alreadyWatching": false, "weekAhead": false, "recap": false}
+    ]
+  },
+  "live": []
+}
