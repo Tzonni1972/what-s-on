@@ -1,0 +1,234 @@
+{
+  "week": "21–27 Sep 2026",
+  "region": "Athens, Greece",
+  "timezone": "Europe/Athens",
+  "asOf": "2026-09-21",
+  "lane": [
+    "thriller",
+    "crime",
+    "cop",
+    "mafia",
+    "Nordic noir",
+    "military",
+    "sci-fi"
+  ],
+  "sections": {
+    "thisWeek": [
+      {
+        "id": "lioness-s3e8",
+        "title": "Lioness S3E8 finale",
+        "kind": "series",
+        "why": "Sheridan military-spy; conspiracy closes.",
+        "service": "COSMOTE",
+        "when": "Mon 21 · 22:00",
+        "imdb": "7.8",
+        "link": "https://www.imdb.com/title/tt13111078/",
+        "alreadyWatching": false,
+        "weekAhead": true,
+        "recap": false
+      },
+      {
+        "id": "vigil-s3e4",
+        "title": "Vigil S3E4",
+        "kind": "series",
+        "why": "Arctic station; Henrik & Kirsten after the missing scientist.",
+        "service": "COSMOTE",
+        "when": "Tue 22 · 23:00",
+        "imdb": "7.4",
+        "link": "https://www.imdb.com/title/tt11846996/",
+        "alreadyWatching": false,
+        "weekAhead": true,
+        "recap": false
+      },
+      {
+        "id": "prisoner-951",
+        "title": "Prisoner 951 E2–E5",
+        "kind": "series",
+        "why": "Zaghari-Ratcliffe true story; run ends Thu night.",
+        "service": "COSMOTE",
+        "when": "Mon–Thu late",
+        "imdb": "—",
+        "link": null,
+        "alreadyWatching": false,
+        "weekAhead": true,
+        "recap": false
+      },
+      {
+        "id": "last-seen-e4",
+        "title": "Last Seen E4",
+        "kind": "series",
+        "why": "Cop dispatcher hook continues.",
+        "service": "APPLE TV",
+        "when": "Wed 23",
+        "imdb": "—",
+        "link": "https://www.apple.com/tv-pr/originals/last-seen/",
+        "alreadyWatching": false,
+        "weekAhead": true,
+        "recap": false
+      },
+      {
+        "id": "slow-horses-s6e2",
+        "title": "Slow Horses S6E2",
+        "kind": "series",
+        "why": "Daddy Issues; Lamb’s misfits.",
+        "service": "APPLE TV",
+        "when": "Wed 23",
+        "imdb": "8.3",
+        "link": "https://www.imdb.com/title/tt5875444/",
+        "alreadyWatching": false,
+        "weekAhead": true,
+        "recap": false
+      },
+      {
+        "id": "ludwig-s2e6",
+        "title": "Ludwig S2E6",
+        "kind": "series",
+        "why": "Crossword-genius murder puzzle.",
+        "service": "COSMOTE",
+        "when": "Fri 25 · 22:00",
+        "imdb": "—",
+        "link": null,
+        "alreadyWatching": false,
+        "weekAhead": true,
+        "recap": false
+      },
+      {
+        "id": "dark-matter-s2e5",
+        "title": "Dark Matter S2E5",
+        "kind": "series",
+        "why": "Love and Be Loved; multiverse heat.",
+        "service": "APPLE TV",
+        "when": "Fri 25",
+        "imdb": "7.6",
+        "link": "https://www.imdb.com/title/tt19767466/",
+        "alreadyWatching": false,
+        "weekAhead": true,
+        "recap": false
+      },
+      {
+        "id": "snw-s4-finale",
+        "title": "Strange New Worlds S4 finale",
+        "kind": "series",
+        "why": "Time fracture; Enterprise of the future.",
+        "service": "COSMOTE",
+        "when": "Fri 25 · ~23:00",
+        "imdb": "8.0",
+        "link": "https://www.imdb.com/title/tt12327578/",
+        "alreadyWatching": false,
+        "weekAhead": true,
+        "recap": false
+      },
+      {
+        "id": "i-fought-the-law",
+        "title": "I Fought the Law E3–E4",
+        "kind": "series",
+        "why": "Sheridan Smith vs the loophole that freed a killer.",
+        "service": "COSMOTE",
+        "when": "Sat 26 · 21:10/22:00",
+        "imdb": "7.1",
+        "link": null,
+        "alreadyWatching": false,
+        "weekAhead": true,
+        "recap": false
+      },
+      {
+        "id": "mobland-s2e2",
+        "title": "MobLand S2E2",
+        "kind": "series",
+        "why": "Hardy/Brosnan; Conrad slips, Maeve pushes.",
+        "service": "COSMOTE",
+        "when": "Sat 26 · 23:00 (Paramount+ Fri)",
+        "imdb": "8.3",
+        "link": "https://www.imdb.com/title/tt31510819/",
+        "alreadyWatching": false,
+        "weekAhead": true,
+        "recap": false
+      }
+    ],
+    "movies": [
+      {
+        "id": "serpico",
+        "title": "Serpico",
+        "kind": "movie",
+        "why": "Pacino vs NYPD corruption classic. Still new.",
+        "service": "NETFLIX",
+        "when": "NOW",
+        "imdb": "7.7",
+        "link": "https://www.imdb.com/title/tt0070666/",
+        "alreadyWatching": false,
+        "weekAhead": false,
+        "recap": true
+      }
+    ],
+    "justIn": [
+      {
+        "id": "monster-lizzie",
+        "title": "Monster: The Lizzie Borden Story",
+        "kind": "series",
+        "why": "Murphy axe true-crime; all 8.",
+        "service": "NETFLIX",
+        "when": "ON DEMAND",
+        "imdb": "—",
+        "link": null,
+        "alreadyWatching": false,
+        "weekAhead": false,
+        "recap": true
+      },
+      {
+        "id": "neagley",
+        "title": "Neagley",
+        "kind": "series",
+        "why": "Reacher-verse PI; all 8.",
+        "service": "PRIME",
+        "when": "ON DEMAND",
+        "imdb": "—",
+        "link": null,
+        "alreadyWatching": false,
+        "weekAhead": false,
+        "recap": true
+      },
+      {
+        "id": "city-of-blood",
+        "title": "City of Blood",
+        "kind": "series",
+        "why": "German crime-thriller mini.",
+        "service": "DISNEY+",
+        "when": "ON DEMAND",
+        "imdb": "—",
+        "link": "https://www.imdb.com/title/tt32642114/",
+        "alreadyWatching": false,
+        "weekAhead": false,
+        "recap": true
+      },
+      {
+        "id": "nocturnal-animals",
+        "title": "Nocturnal Animals",
+        "kind": "movie",
+        "why": "Tom Ford dual-track thriller.",
+        "service": "NETFLIX",
+        "when": "ON DEMAND",
+        "imdb": "7.5",
+        "link": "https://www.imdb.com/title/tt4550098/",
+        "alreadyWatching": false,
+        "weekAhead": false,
+        "recap": true
+      }
+    ],
+    "pao": [
+      {
+        "id": "pao-paris-24sep",
+        "title": "PAO vs Paris",
+        "kind": "sport",
+        "why": "EuroLeague home opener vs Paris Basketball.",
+        "service": "COSMOTE",
+        "when": "Thu 24 · 21:15 · Telekom Center (OAKA)",
+        "imdb": "—",
+        "link": null,
+        "alreadyWatching": false,
+        "weekAhead": true,
+        "recap": false
+      }
+    ]
+  },
+  "live": []
+}
