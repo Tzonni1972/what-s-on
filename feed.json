@@ -1,248 +1,222 @@
 {
-  "week": "5–11 Oct 2026",
-  "region": "Athens, Greece",
-  "timezone": "Europe/Athens",
-  "asOf": "2026-10-05",
-  "lane": [
-    "thriller",
-    "crime",
-    "cop",
-    "mafia",
-    "Nordic noir",
-    "military",
-    "sci-fi"
+ "week": "12–18 Oct 2026",
+ "region": "Athens, Greece",
+ "timezone": "Europe/Athens",
+ "asOf": "2026-10-12",
+ "lane": [
+  "thriller",
+  "crime",
+  "cop",
+  "mafia",
+  "Nordic noir",
+  "military",
+  "sci-fi"
+ ],
+ "sections": {
+  "thisWeek": [
+   {
+    "id": "the-trap-s1",
+    "title": "The Trap S1",
+    "kind": "series",
+    "why": "German psych thriller; shut-in author baits her sister’s killer.",
+    "service": "NETFLIX",
+    "when": "Tue 13",
+    "imdb": null,
+    "link": "https://www.netflix.com/title/81720671",
+    "alreadyWatching": false,
+    "weekAhead": true,
+    "recap": false
+   },
+   {
+    "id": "time-s3e1",
+    "title": "Time S3E1",
+    "kind": "series",
+    "why": "McGovern prison drama; new chaplain vs the governor.",
+    "service": "COSMOTE",
+    "when": "Tue 13 · 23:00",
+    "imdb": "8.2",
+    "link": "https://www.imdb.com/title/tt13138834/",
+    "alreadyWatching": false,
+    "weekAhead": true,
+    "recap": false
+   },
+   {
+    "id": "slow-horses-s6e5",
+    "title": "Slow Horses S6E5",
+    "kind": "series",
+    "why": "Sayonara; River after Sid, Lamb on Cantor’s trail.",
+    "service": "APPLE TV",
+    "when": "Wed 14",
+    "imdb": "8.4",
+    "link": "https://www.imdb.com/title/tt5875444/",
+    "alreadyWatching": false,
+    "weekAhead": true,
+    "recap": false
+   },
+   {
+    "id": "the-diplomat-s4",
+    "title": "The Diplomat S4",
+    "kind": "series",
+    "why": "Kate’s marriage cracks as a US–UK cover-up blows open.",
+    "service": "NETFLIX",
+    "when": "Thu 15",
+    "imdb": "8.0",
+    "link": "https://www.imdb.com/title/tt17491088/",
+    "alreadyWatching": false,
+    "weekAhead": true,
+    "recap": false
+   },
+   {
+    "id": "dark-matter-s2e8",
+    "title": "Dark Matter S2E8",
+    "kind": "series",
+    "why": "The Basic Oneness of Everything; not the finale (E10 on 30 Oct).",
+    "service": "APPLE TV",
+    "when": "Fri 16",
+    "imdb": "7.6",
+    "link": "https://www.imdb.com/title/tt28014182/",
+    "alreadyWatching": false,
+    "weekAhead": true,
+    "recap": false
+   },
+   {
+    "id": "mobland-s2e5",
+    "title": "MobLand S2E5",
+    "kind": "series",
+    "why": "Birdland; Conrad declares war, Maeve pulls strings.",
+    "service": "COSMOTE",
+    "when": "Paramount+ Fri 16 · Cosmote Sat 17 · 23:00",
+    "imdb": "8.3",
+    "link": "https://www.imdb.com/title/tt30411821/",
+    "alreadyWatching": false,
+    "weekAhead": true,
+    "recap": false
+   },
+   {
+    "id": "kill-jackie-e3",
+    "title": "Kill Jackie E3",
+    "kind": "series",
+    "why": "Zeta-Jones revenge; Jackie turns on the Demons.",
+    "service": "COSMOTE",
+    "when": "Sat 17 · 22:00",
+    "imdb": null,
+    "link": null,
+    "alreadyWatching": false,
+    "weekAhead": true,
+    "recap": false
+   }
   ],
-  "sections": {
-    "thisWeek": [
-      {
-        "id": "lanterns-s1e8",
-        "title": "Lanterns S1E8 (finale)",
-        "kind": "series",
-        "why": "Dirt and Stars; who killed Hal Jordan.",
-        "service": "MAX",
-        "when": "Mon 5 · NOW",
-        "imdb": "7.8",
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": true,
-        "recap": false
-      },
-      {
-        "id": "mayor-of-kingstown-s1-4",
-        "title": "Mayor of Kingstown S1–4",
-        "kind": "series",
-        "why": "Renner’s prison-town crime boss saga, all four seasons.",
-        "service": "NETFLIX",
-        "when": "Mon 5",
-        "imdb": "8.2",
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": true,
-        "recap": false
-      },
-      {
-        "id": "vigil-s3e6",
-        "title": "Vigil S3E6 (finale)",
-        "kind": "series",
-        "why": "Amy and Kirsten’s hardest call.",
-        "service": "COSMOTE",
-        "when": "Tue 6 · 22:55",
-        "imdb": null,
-        "link": "https://www.imdb.com/title/tt11846996/",
-        "alreadyWatching": false,
-        "weekAhead": true,
-        "recap": false
-      },
-      {
-        "id": "slow-horses-s6e4",
-        "title": "Slow Horses S6E4",
-        "kind": "series",
-        "why": "Lost and Found; Slough House keeps sliding.",
-        "service": "APPLE TV",
-        "when": "Wed 7",
-        "imdb": "8.4",
-        "link": "https://www.imdb.com/title/tt5875444/",
-        "alreadyWatching": false,
-        "weekAhead": true,
-        "recap": false
-      },
-      {
-        "id": "dark-matter-s2e7",
-        "title": "Dark Matter S2E7",
-        "kind": "series",
-        "why": "The Pyramid; Charlie alone in the Box.",
-        "service": "APPLE TV",
-        "when": "Fri 9",
-        "imdb": "7.6",
-        "link": "https://www.imdb.com/title/tt28014182/",
-        "alreadyWatching": false,
-        "weekAhead": true,
-        "recap": false
-      },
-      {
-        "id": "mobland-s2e4",
-        "title": "MobLand S2E4",
-        "kind": "series",
-        "why": "Blank Curtain; the Harrigans scramble before police close in.",
-        "service": "COSMOTE",
-        "when": "Paramount+ Fri 9 · Cosmote Sat 10 · 23:00",
-        "imdb": "8.3",
-        "link": "https://www.imdb.com/title/tt30411821/",
-        "alreadyWatching": false,
-        "weekAhead": true,
-        "recap": false
-      },
-      {
-        "id": "kill-jackie-next",
-        "title": "Kill Jackie",
-        "kind": "series",
-        "why": "Next episode of Zeta-Jones’s revenge thriller.",
-        "service": "COSMOTE",
-        "when": "Sat 10 · 22:00",
-        "imdb": null,
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": true,
-        "recap": false
-      }
-    ],
-    "movies": [
-      {
-        "id": "animals-2026",
-        "title": "Animals",
-        "kind": "movie",
-        "why": "Ben Affleck directs and stars; kidnapped son, hours to find the ransom.",
-        "service": "NETFLIX",
-        "when": "Fri 9",
-        "imdb": null,
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": true,
-        "recap": false
-      },
-      {
-        "id": "the-butterfly-effect",
-        "title": "The Butterfly Effect",
-        "kind": "movie",
-        "why": "Time-bending sci-fi thriller, newly back.",
-        "service": "NETFLIX",
-        "when": "NOW",
-        "imdb": "7.6",
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": true,
-        "recap": false
-      },
-      {
-        "id": "eyes-wide-shut",
-        "title": "Eyes Wide Shut",
-        "kind": "movie",
-        "why": "Kubrick’s night-world thriller.",
-        "service": "MAX",
-        "when": "NOW",
-        "imdb": "7.5",
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": true,
-        "recap": false
-      }
-    ],
-    "justIn": [
-      {
-        "id": "the-x-files-s1-11",
-        "title": "The X-Files S1–11",
-        "kind": "series",
-        "why": "Mulder and Scully, the whole run.",
-        "service": "PRIME",
-        "when": "NOW",
-        "imdb": "8.6",
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": false,
-        "recap": true
-      },
-      {
-        "id": "red-queen-s2",
-        "title": "Red Queen S2",
-        "kind": "series",
-        "why": "Spanish police thriller returns.",
-        "service": "PRIME",
-        "when": "NOW",
-        "imdb": "6.8",
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": false,
-        "recap": true
-      },
-      {
-        "id": "ncis",
-        "title": "NCIS",
-        "kind": "series",
-        "why": "Navy cop procedural, deep catalog drop.",
-        "service": "DISNEY+",
-        "when": "NOW",
-        "imdb": "7.8",
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": false,
-        "recap": true
-      },
-      {
-        "id": "blue-lights-s4",
-        "title": "Blue Lights S4",
-        "kind": "series",
-        "why": "Belfast beat cops, all episodes.",
-        "service": "COSMOTE",
-        "when": "NOW · Magenta On Demand",
-        "imdb": "8.2",
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": false,
-        "recap": true
-      },
-      {
-        "id": "ill-be-gone-in-the-dark",
-        "title": "I'll Be Gone in the Dark",
-        "kind": "series",
-        "why": "Golden State Killer true-crime docuseries.",
-        "service": "MAX",
-        "when": "Mon 5 · NOW",
-        "imdb": "7.4",
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": false,
-        "recap": true
-      }
-    ],
-    "pao": [
-      {
-        "id": "pao-fenerbahce-2026-10-08",
-        "title": "PAO vs Fenerbahçe",
-        "kind": "sports",
-        "why": "EuroLeague home; PAO 3–0 so far.",
-        "service": "PAO",
-        "when": "Thu 8 Oct · 21:15 · Telekom Center",
-        "imdb": null,
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": true,
-        "recap": false
-      },
-      {
-        "id": "partizan-pao-2026-10-13",
-        "title": "Partizan vs PAO",
-        "kind": "sports",
-        "why": "EuroLeague away, next up.",
-        "service": "PAO",
-        "when": "Tue 13 Oct · 21:30 · Belgrade Arena",
-        "imdb": null,
-        "link": null,
-        "alreadyWatching": false,
-        "weekAhead": false,
-        "recap": false
-      }
-    ],
-    "live": []
-  },
-  "footer": "Netflix · Prime · Max · Cosmote · Disney+ · Apple TV  ·  thriller / crime / cop / mafia / military / sci-fi"
+  "movies": [
+   {
+    "id": "animals-2026",
+    "title": "Animals",
+    "kind": "movie",
+    "why": "Affleck directs and stars; kidnapped son, hours to raise the ransom.",
+    "service": "NETFLIX",
+    "when": "NOW",
+    "imdb": "5.7",
+    "link": null,
+    "alreadyWatching": false,
+    "weekAhead": true,
+    "recap": false
+   }
+  ],
+  "justIn": [
+   {
+    "id": "mayor-of-kingstown-s1-4",
+    "title": "Mayor of Kingstown S1–4",
+    "kind": "series",
+    "why": "Renner’s prison-town crime saga, all four seasons.",
+    "service": "NETFLIX",
+    "when": "NOW",
+    "imdb": "8.1",
+    "link": null,
+    "alreadyWatching": false,
+    "weekAhead": false,
+    "recap": true
+   },
+   {
+    "id": "the-sopranos-s5",
+    "title": "The Sopranos S5",
+    "kind": "series",
+    "why": "Jersey mafia peak, newly on Max.",
+    "service": "MAX",
+    "when": "NOW",
+    "imdb": "9.2",
+    "link": null,
+    "alreadyWatching": false,
+    "weekAhead": false,
+    "recap": true
+   },
+   {
+    "id": "inside-the-circle-s1",
+    "title": "Inside The Circle / El círculo S1",
+    "kind": "series",
+    "why": "Mexican conspiracy; Defense Secretary murder cover-up.",
+    "service": "NETFLIX",
+    "when": "NOW",
+    "imdb": null,
+    "link": null,
+    "alreadyWatching": false,
+    "weekAhead": false,
+    "recap": true
+   },
+   {
+    "id": "below-s1",
+    "title": "Below S1",
+    "kind": "series",
+    "why": "Josh Hartnett sea-creature thriller.",
+    "service": "NETFLIX",
+    "when": "NOW",
+    "imdb": "6.5",
+    "link": null,
+    "alreadyWatching": false,
+    "weekAhead": false,
+    "recap": true
+   },
+   {
+    "id": "last-seen-s1",
+    "title": "Last Seen S1",
+    "kind": "series",
+    "why": "Police dispatcher, missing daughter.",
+    "service": "APPLE TV",
+    "when": "NOW",
+    "imdb": "7.2",
+    "link": null,
+    "alreadyWatching": false,
+    "weekAhead": false,
+    "recap": true
+   }
+  ],
+  "pao": [
+   {
+    "id": "partizan-pao-2026-10-13",
+    "title": "Partizan vs PAO",
+    "kind": "sports",
+    "why": "EuroLeague R5 away; PAO beat Fenerbahçe 92–74 in R4.",
+    "service": "PAO",
+    "when": "Tue 13 Oct · 21:30 · Belgrade Arena · NovaSports 4",
+    "imdb": null,
+    "link": null,
+    "alreadyWatching": false,
+    "weekAhead": true,
+    "recap": false
+   },
+   {
+    "id": "pao-hapoel-2026-10-16",
+    "title": "PAO vs Hapoel Tel Aviv",
+    "kind": "sports",
+    "why": "EuroLeague R6 home at Telekom Center.",
+    "service": "PAO",
+    "when": "Fri 16 Oct · 21:15 · Telekom Center · NovaSports",
+    "imdb": null,
+    "link": null,
+    "alreadyWatching": false,
+    "weekAhead": true,
+    "recap": false
+   }
+  ],
+  "live": []
+ },
+ "footer": "Netflix · Prime · Max · Cosmote · Disney+ · Apple TV · thriller / crime / cop / mafia / military / sci-fi"
 }
